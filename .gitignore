@@ -1,0 +1,7 @@
+*.log
+*.png
+*.jpg
+*.svg
+img/
+.DS_Store
+.editconfig
