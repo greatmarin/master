@@ -5,3 +5,7 @@
 img/
 .DS_Store
 .editconfig
+*.pdf
+*.gif
+*.doc
+*.docx
